@@ -1,0 +1,144 @@
+case 258:
+	token_name = "TOKEN_ARRAY";
+	break;
+case 259:
+	token_name = "TOKEN_BOOLEAN";
+	break;
+case 260:
+	token_name = "TOKEN_CHAR";
+	break;
+case 261:
+	token_name = "TOKEN_ELSE";
+	break;
+case 262:
+	token_name = "TOKEN_FALSE";
+	break;
+case 263:
+	token_name = "TOKEN_FOR";
+	break;
+case 264:
+	token_name = "TOKEN_FUNCTION";
+	break;
+case 265:
+	token_name = "TOKEN_IF";
+	break;
+case 266:
+	token_name = "TOKEN_INTEGER";
+	break;
+case 267:
+	token_name = "TOKEN_PRINT";
+	break;
+case 268:
+	token_name = "TOKEN_RETURN";
+	break;
+case 269:
+	token_name = "TOKEN_STRING";
+	break;
+case 270:
+	token_name = "TOKEN_TRUE";
+	break;
+case 271:
+	token_name = "TOKEN_VOID";
+	break;
+case 272:
+	token_name = "TOKEN_WHILE";
+	break;
+case 273:
+	token_name = "TOKEN_LITERAL_INT";
+	break;
+case 274:
+	token_name = "TOKEN_LITERAL_CHAR";
+	break;
+case 275:
+	token_name = "TOKEN_LITERAL_STRING";
+	break;
+case 276:
+	token_name = "TOKEN_IDENT";
+	break;
+case 277:
+	token_name = "TOKEN_POSTFIX_ADD";
+	break;
+case 278:
+	token_name = "TOKEN_POSTFIX_MINUS";
+	break;
+case 279:
+	token_name = "TOKEN_GREATER_EQUAL";
+	break;
+case 280:
+	token_name = "TOKEN_LESS_EQUAL";
+	break;
+case 281:
+	token_name = "TOKEN_EQUAL";
+	break;
+case 282:
+	token_name = "TOKEN_NOT_EQUAL";
+	break;
+case 283:
+	token_name = "TOKEN_LOGICAL_AND";
+	break;
+case 284:
+	token_name = "TOKEN_LOGICAL_OR";
+	break;
+case 285:
+	token_name = "TOKEN_NOT";
+	break;
+case 286:
+	token_name = "TOKEN_LPAREN";
+	break;
+case 287:
+	token_name = "TOKEN_RPAREN";
+	break;
+case 288:
+	token_name = "TOKEN_LBRACKET";
+	break;
+case 289:
+	token_name = "TOKEN_RBRACKET";
+	break;
+case 290:
+	token_name = "TOKEN_LBRACE";
+	break;
+case 291:
+	token_name = "TOKEN_RBRACE";
+	break;
+case 292:
+	token_name = "TOKEN_EXPONENTIATION";
+	break;
+case 293:
+	token_name = "TOKEN_MUL";
+	break;
+case 294:
+	token_name = "TOKEN_DIV";
+	break;
+case 295:
+	token_name = "TOKEN_MOD";
+	break;
+case 296:
+	token_name = "TOKEN_PLUS";
+	break;
+case 297:
+	token_name = "TOKEN_MINUS";
+	break;
+case 298:
+	token_name = "TOKEN_COMMA";
+	break;
+case 299:
+	token_name = "TOKEN_GREATER";
+	break;
+case 300:
+	token_name = "TOKEN_LESS";
+	break;
+case 301:
+	token_name = "TOKEN_ASSIGN";
+	break;
+case 302:
+	token_name = "TOKEN_COLON";
+	break;
+case 303:
+	token_name = "TOKEN_SEMI";
+	break;
+case 304:
+	token_name = "TOKEN_ERROR";
+	break;
+case 305:
+	token_name = "TOKEN_NO_ELSE";
+	break;

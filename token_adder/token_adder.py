@@ -10,6 +10,7 @@ file1_path = "/Users/derrelldowney/projects/code/scripts/token_adder/tokens.txt"
 # path fr file 2
 file2_path = "/Users/derrelldowney/projects/code/scripts/token_adder/get_token_name_switch.txt"
 
+#opening the files
 file1 = open(file1_path, "r")
 file2 = open(file2_path, "w")
 
@@ -26,10 +27,6 @@ while line != '':
     token_const = token_const+1
     line = file1.readline()
 
-
-
-
-
-
+# closing the files
 file1.close()
 file2.close()
